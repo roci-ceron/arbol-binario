@@ -26,3 +26,10 @@ Reestructuramos el codigo para que sea un archivo ".form" donde hace que el codi
 ¿Por qué realizamos esa modificación?
 
 Era un requisito. 
+
+
+
+BREVE REFLEXION POR ESTUDIANTE:
+
+ROCIO CERON #00571949
+La IA me ayudó a hacer la estructura del árbol binario y los recorridos. Tuve que revisar y corregir algunas partes porque al principio el árbol no se mostraba como yo quería. Durante el proceso aprendí mejor cómo se acomodan los nodos y cómo funcionan los recorridos de preorden, inorden y postorden. También aprendí que es importante revisar el código que genera la IA y no solo copiarlo.
